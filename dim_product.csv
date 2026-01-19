@@ -1,0 +1,209 @@
+Category,Item,Product_ID
+Patisserie,Item_10_Pat,1
+Milk Products,Item_17_Milk,2
+Butchers,Item_12_But,3
+Beverages,Item_16_Bev,4
+Food,Item_6_Food,5
+Patisserie,,6
+Food,Item_1_Food,7
+Furniture,,8
+Furniture,Item_16_Fur,9
+Butchers,Item_22_But,10
+Butchers,Item_3_But,11
+Milk Products,,12
+Food,Item_2_Food,13
+Patisserie,Item_24_Pat,14
+Milk Products,Item_16_Milk,15
+Beverages,,16
+Patisserie,Item_17_Pat,17
+Electric Household Essentials,Item_13_Ehe,18
+Beverages,Item_7_Bev,19
+Electric Household Essentials,Item_4_Ehe,20
+Food,Item_10_Food,21
+Furniture,Item_14_Fur,22
+Butchers,Item_20_But,23
+Furniture,Item_25_Fur,24
+Food,Item_14_Food,25
+Patisserie,Item_22_Pat,26
+Food,Item_11_Food,27
+Patisserie,Item_6_Pat,28
+Food,,29
+Electric Household Essentials,Item_21_Ehe,30
+Beverages,Item_25_Bev,31
+Food,Item_23_Food,32
+Furniture,Item_10_Fur,33
+Beverages,Item_11_Bev,34
+Butchers,Item_23_But,35
+Beverages,Item_22_Bev,36
+Electric Household Essentials,Item_10_Ehe,37
+Butchers,Item_24_But,38
+Beverages,Item_8_Bev,39
+Food,Item_3_Food,40
+Food,Item_12_Food,41
+Computers And Electric Accessories,Item_16_Cea,42
+Patisserie,Item_11_Pat,43
+Butchers,Item_16_But,44
+Computers And Electric Accessories,Item_5_Cea,45
+Milk Products,Item_19_Milk,46
+Furniture,Item_23_Fur,47
+Furniture,Item_7_Fur,48
+Computers And Electric Accessories,Item_15_Cea,49
+Milk Products,Item_6_Milk,50
+Computers And Electric Accessories,Item_24_Cea,51
+Computers And Electric Accessories,Item_22_Cea,52
+Food,Item_22_Food,53
+Butchers,Item_2_But,54
+Patisserie,Item_14_Pat,55
+Patisserie,Item_12_Pat,56
+Food,Item_18_Food,57
+Patisserie,Item_1_Pat,58
+Beverages,Item_4_Bev,59
+Furniture,Item_22_Fur,60
+Patisserie,Item_7_Pat,61
+Computers And Electric Accessories,Item_20_Cea,62
+Food,Item_20_Food,63
+Furniture,Item_11_Fur,64
+Patisserie,Item_25_Pat,65
+Food,Item_7_Food,66
+Furniture,Item_21_Fur,67
+Furniture,Item_24_Fur,68
+Milk Products,Item_8_Milk,69
+Food,Item_4_Food,70
+Beverages,Item_14_Bev,71
+Patisserie,Item_4_Pat,72
+Milk Products,Item_4_Milk,73
+Computers And Electric Accessories,Item_7_Cea,74
+Electric Household Essentials,Item_6_Ehe,75
+Butchers,Item_21_But,76
+Patisserie,Item_16_Pat,77
+Computers And Electric Accessories,Item_25_Cea,78
+Butchers,Item_8_But,79
+Computers And Electric Accessories,Item_10_Cea,80
+Furniture,Item_5_Fur,81
+Food,Item_9_Food,82
+Computers And Electric Accessories,,83
+Computers And Electric Accessories,Item_21_Cea,84
+Computers And Electric Accessories,Item_8_Cea,85
+Electric Household Essentials,Item_8_Ehe,86
+Milk Products,Item_23_Milk,87
+Beverages,Item_23_Bev,88
+Beverages,Item_19_Bev,89
+Beverages,Item_20_Bev,90
+Butchers,,91
+Food,Item_24_Food,92
+Milk Products,Item_21_Milk,93
+Beverages,Item_6_Bev,94
+Milk Products,Item_1_Milk,95
+Milk Products,Item_24_Milk,96
+Computers And Electric Accessories,Item_2_Cea,97
+Butchers,Item_18_But,98
+Furniture,Item_1_Fur,99
+Milk Products,Item_3_Milk,100
+Milk Products,Item_11_Milk,101
+Computers And Electric Accessories,Item_13_Cea,102
+Computers And Electric Accessories,Item_6_Cea,103
+Furniture,Item_2_Fur,104
+Beverages,Item_21_Bev,105
+Furniture,Item_8_Fur,106
+Butchers,Item_13_But,107
+Beverages,Item_2_Bev,108
+Electric Household Essentials,Item_7_Ehe,109
+Computers And Electric Accessories,Item_14_Cea,110
+Electric Household Essentials,Item_19_Ehe,111
+Computers And Electric Accessories,Item_18_Cea,112
+Computers And Electric Accessories,Item_11_Cea,113
+Furniture,Item_17_Fur,114
+Milk Products,Item_15_Milk,115
+Electric Household Essentials,Item_20_Ehe,116
+Electric Household Essentials,Item_16_Ehe,117
+Electric Household Essentials,Item_23_Ehe,118
+Butchers,Item_7_But,119
+Electric Household Essentials,Item_1_Ehe,120
+Computers And Electric Accessories,Item_19_Cea,121
+Food,Item_25_Food,122
+Electric Household Essentials,Item_12_Ehe,123
+Electric Household Essentials,Item_22_Ehe,124
+Patisserie,Item_13_Pat,125
+Electric Household Essentials,Item_17_Ehe,126
+Butchers,Item_25_But,127
+Computers And Electric Accessories,Item_4_Cea,128
+Milk Products,Item_2_Milk,129
+Butchers,Item_1_But,130
+Beverages,Item_12_Bev,131
+Electric Household Essentials,,132
+Food,Item_5_Food,133
+Electric Household Essentials,Item_25_Ehe,134
+Computers And Electric Accessories,Item_9_Cea,135
+Computers And Electric Accessories,Item_1_Cea,136
+Furniture,Item_15_Fur,137
+Patisserie,Item_15_Pat,138
+Electric Household Essentials,Item_5_Ehe,139
+Beverages,Item_1_Bev,140
+Butchers,Item_17_But,141
+Beverages,Item_3_Bev,142
+Food,Item_13_Food,143
+Electric Household Essentials,Item_11_Ehe,144
+Milk Products,Item_9_Milk,145
+Food,Item_17_Food,146
+Patisserie,Item_20_Pat,147
+Patisserie,Item_9_Pat,148
+Beverages,Item_10_Bev,149
+Computers And Electric Accessories,Item_17_Cea,150
+Patisserie,Item_8_Pat,151
+Milk Products,Item_13_Milk,152
+Butchers,Item_5_But,153
+Milk Products,Item_22_Milk,154
+Furniture,Item_4_Fur,155
+Beverages,Item_17_Bev,156
+Patisserie,Item_19_Pat,157
+Patisserie,Item_2_Pat,158
+Butchers,Item_14_But,159
+Furniture,Item_20_Fur,160
+Butchers,Item_6_But,161
+Furniture,Item_9_Fur,162
+Computers And Electric Accessories,Item_12_Cea,163
+Electric Household Essentials,Item_15_Ehe,164
+Patisserie,Item_5_Pat,165
+Milk Products,Item_18_Milk,166
+Furniture,Item_6_Fur,167
+Beverages,Item_24_Bev,168
+Milk Products,Item_14_Milk,169
+Furniture,Item_12_Fur,170
+Beverages,Item_18_Bev,171
+Computers And Electric Accessories,Item_23_Cea,172
+Electric Household Essentials,Item_24_Ehe,173
+Electric Household Essentials,Item_2_Ehe,174
+Patisserie,Item_23_Pat,175
+Food,Item_15_Food,176
+Food,Item_8_Food,177
+Beverages,Item_15_Bev,178
+Milk Products,Item_20_Milk,179
+Electric Household Essentials,Item_9_Ehe,180
+Butchers,Item_11_But,181
+Electric Household Essentials,Item_18_Ehe,182
+Milk Products,Item_5_Milk,183
+Furniture,Item_3_Fur,184
+Butchers,Item_19_But,185
+Computers And Electric Accessories,Item_3_Cea,186
+Furniture,Item_19_Fur,187
+Milk Products,Item_7_Milk,188
+Beverages,Item_9_Bev,189
+Butchers,Item_10_But,190
+Furniture,Item_18_Fur,191
+Milk Products,Item_25_Milk,192
+Butchers,Item_4_But,193
+Butchers,Item_15_But,194
+Patisserie,Item_21_Pat,195
+Food,Item_21_Food,196
+Beverages,Item_13_Bev,197
+Beverages,Item_5_Bev,198
+Patisserie,Item_3_Pat,199
+Furniture,Item_13_Fur,200
+Patisserie,Item_18_Pat,201
+Milk Products,Item_12_Milk,202
+Milk Products,Item_10_Milk,203
+Food,Item_16_Food,204
+Food,Item_19_Food,205
+Electric Household Essentials,Item_14_Ehe,206
+Electric Household Essentials,Item_3_Ehe,207
+Butchers,Item_9_But,208

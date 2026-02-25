@@ -1,5 +1,26 @@
-# retail-sales-powerbi-analysis
-A PowerBI sales analytics project with DAX, star schema, and business insights to help improve retail business decisions and ensure steady and consistent company growth.
+# REGAL RETAIL.
+## CLIENT BACKGROUND
+
+Regal Retail is a US-based general retail store founded in 2021. They specialize in selling a variety of products, including meats and beverages, furniture, and everyday essentials like food and milk products, etc. The store has experienced exponential growth and has been a net positive for the community. They have as many as 300 active customers annually and sales records close to 13,000, with total revenue exceeding $1.5M across 3 years and a single quarter. 
+
+The available retail store data spans various dimensions and metrics, including sales, sales by products, discounts applied, AOV, and total sales by location. Discounts are a fair part of their brand's identity, as they are in their early stages. This would be a rundown of their total sales analysis.
+
+An in-depth analysis was conducted to evaluate Regal Retail's performance over the past several years (2022-2024 and Q1 of 2025). This comprehensive review provides valuable insights that internal cross-functional teams will use to streamline processes, enhance Regal Retail’s commercial performance, and help them achieve their NorthStar Metrics.
+
+The key insights and recommendations focus on the following areas:
+Northstar Metrics: Customer Lifetime Value(CLV)
+The sales trend focuses on the number of sales, revenue retention, and Average Order Value (AOV), among others.
+Product performance - Analyzing different product lines, discounts, and revenue spikes.
+Sales channels, discounts, and resource allocation for improved sales and customer satisfaction.
+
+An interactive PowerBI dashboard can be downloaded here
+
+The SQL queries utilized to inspect and perform quality checks can be found here
+
+The SQL queries utilized to clean, organize, and prepare data for the dashboard can be found here
+
+Targeted SQL queries regarding various business questions can be found here
+
 # Retail Sales Analytics – Power BI Project
 
 ## Business Problem

@@ -13,18 +13,19 @@ The sales trend focuses on the number of sales, revenue retention, and Average O
 Product performance - Analyzing different product lines, discounts, and revenue spikes.
 Sales channels, discounts, and resource allocation for improved sales and customer satisfaction.
 
-An interactive PowerBI dashboard can be downloaded here
+An interactive PowerBI dashboard can be downloaded ![here]()
 
-The SQL queries utilized to inspect and perform quality checks can be found here
+The SQL queries utilized to inspect and perform quality checks can be found ![here]()
 
-The SQL queries utilized to clean, organize, and prepare data for the dashboard can be found here
+The SQL queries utilized to clean, organize, and prepare data for the dashboard can be found ![here]()
 
-Targeted SQL queries regarding various business questions can be found here
+Targeted SQL queries regarding various business questions can be found ![here]()
 
 # Retail Sales Analytics – Power BI Project
 
-## Business Problem
+## EXECUTIVE SUMMARY
 
+<img src="path/to/image.png" alt="Alt text" width="400"/>
 The company collected retail data but lacked insight into:
 
 - Which locations and categories drive revenue
@@ -41,7 +42,7 @@ Decisions were being made based on intuition instead of data.
 ### 1. Data Cleaning & Preparation
 - I profiled raw CSV data for quality issues  
 - Removed duplicates and handled missing values  
-- I also applied IQR method to detect outliers  
+- I also applied the IQR method to detect outliers  
 - I converted transaction dates for time intelligence  
 - I created dimension tables (product, location, date, customer)
 
@@ -81,7 +82,7 @@ Built a 3-page interactive report:
 ---
 
 
-## Recommendations.
+## RECOMMENDATIONS.
 
 ### General:
 -Do sanity checks on key dimensions to investigate if there's a clear driver. Investigate the drop in sales. Was it a seasonal issue, a marketing issue, or even a product quality issue?
@@ -143,9 +144,3 @@ Built a 3-page interactive report:
 2. Open with Power BI Desktop  
 3. Refresh data from processed CSVs  
 4. Explore using slicers and filters
-
----
-
-## Author
-
-Chika-Ezeagu Victor – Data Analytics and Comp Sci Student

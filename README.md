@@ -33,6 +33,7 @@ January 2022 made the most sales with $53k, while January 2025 records the lowes
 More sales are made online than offline. The difference is minor, if not negligible, with online sales leading by only 2%. 
 The Butchers and Beverages category saw the largest revenue spikes in Q3 of 2022 and Q1 of 2023, respectively.
 
+<img width="715" height="191" alt="Declining Sales" src="https://github.com/user-attachments/assets/a49e900f-349e-4854-bd1c-1ffb426e4a19" />
 Declining Trend in 2025:
 January 2022 made the most sales with $53k, while Jan 2025 records the lowest with sales as low as $26k.
 There are no main drivers of sales or dips in the graph, as most sales sit closely together in revenue earned. 
@@ -49,14 +50,47 @@ Investigate the drop in sales. It could be a seasonal issue, a sales record issu
 Dedicate more resources to raising global sales and diversify locations from just a single store to multiple stores at different locations. This would improve in-store access for many customers and would even improve reach for online customers, thereby improving customer satisfaction.
 More resources should go to ads and promotions for all products, across the board, but keep an eye on beverages and furniture, since they tend to dip more than other products and categories. 
 
+DATA STRUCTURE AND INITIAL CHECKS(includes Star Schema)
+The database structure contains 5 major tables: the date dimension, customer dimension, location dimension, and product dimension, all connected to the fact table, with a total of 11,12575 records.
+<img width="759" height="681" alt="Star Schema" src="https://github.com/user-attachments/assets/b7432e2b-98ef-4af3-8361-3ca22d2ec215" />
 
-## Business Insights Discovered
+INSIGHT DEEP-DIVE
+SALES TREND
+<img width="1050" height="125" alt="Sales Summary" src="https://github.com/user-attachments/assets/724fbb2a-2a53-47d4-867d-c72673760039" />
+<img width="1278" height="319" alt="Total Sales by Year and Month" src="https://github.com/user-attachments/assets/2b9519fa-9499-4f69-8880-e677d2d85c7e" />
 
-- The **Butchers category within the dataset generated the highest revenue**, indicating strong customer demand and the need to prioritize inventory and supplier relationships in this segment  
-- Discounts contributed only a **small portion of total sales (≈0.34 impact)**, showing that the business is not heavily reliant on promotions to drive revenue  
-- Sales patterns were **relatively stable across months**, suggesting consistent demand rather than strong seasonality. Sales were relatively consistent across months.  
-- Performance differences across locations highlight opportunities for sharing best practices from top stores.
----
+SALES: 
+Total sales across 2022-2025 are $1.55M, ranging monthly from $37k to $49k, and tanking significantly in 2025 to just $26k. With January 2022 holding the highest number of sales, with numbers up to $53k
+The top-performing department is the Butchers department, selling more online than it did offline. It made sales up to $208k, while the worst performing product is the milk products, with sales only going as high as $108k. The worst-performing category is milk products, accounting for less than 13% of sales.
+Many products are purchased in bulk quantities, especially the Butchers category and Milk products, with MoM growth ranging from 1.59% to 2.22% usually.
+Most categories outperform each other by a margin of $2k - $4k.
+
+<img width="342" height="355" alt="Total Sales by Location" src="https://github.com/user-attachments/assets/28b38d7c-2bc1-4aae-b5a2-c9c1cc996dc3" />
+REVENUE RETENTION, AND LOCATION: 
+More sales are made online than offline. The difference is minor, with online sales leading by only 2%. 
+AOV: AOV across the years stays consistently at $123, indicating relative stability or stagnancy in sales except for in the first quarter of 2025, where AOV decreases to $120. 
+That said, the monthly AOV for each year ranges roughly from $116 to $130, with 2024 recording the highest AOV with $141 in the month of April due to a spike in Beverage sales.
+
+ORDER COUNT
+The order count remained relatively stable from 2022 to 2024, then plummeted in 2025, with annual total transactions falling from as high as 4k over 3 consecutive years to only 213 in January of 2025.
+The sales decline was rapid in the first month of 2025, with orders dropping from 376 in December to 216 in January, and High Value Sales were cut by half. However, the order count is not the only thing greatly affected; sales dropped from $48k to $26k.
+
+PRODUCT PERFORMANCE
+<img width="1284" height="523" alt="Total Sales by Category" src="https://github.com/user-attachments/assets/6f5b1089-49c1-4215-b613-db0b67a7fd1e" />
+Performance detail: 
+The 3 best-performing product categories were Butchers, Electric Household Essentials, and Beverages, with Milk products performing the least. 
+The gap between products' performance is negligible, possibly due to their physical location, as demand for these products in this area is not that different. Across the years, each product had relatively similar dips and spikes in revenue, with Furniture having the most contrast between them. These spikes contributed the most to Butchers and Beverages, leading in sales and helping furniture move up the performance ladder, even though most of its sales were relatively average.
+
+<img width="513" height="350" alt="Total Sales by Discount Applied" src="https://github.com/user-attachments/assets/19a66e14-99e2-43aa-9975-540c8ee7fb98" />
+Discounts: 
+Discounts did not greatly affect sales, as the discount sales percentage usually ranges around 0.34%. The Butchers category experienced the most discounts at 4.67%, while Milk Products had the least at 3.89%.
+
+<img width="1295" height="559" alt="Total Sales by Varying Categories" src="https://github.com/user-attachments/assets/51ff1478-d0dd-41dd-8def-33d35b400108" />
+Revenue Spikes: 
+A few categories, namely Butchers, Beverages, and Furniture, experienced the most spikes, greatly impacting their sales performance and being a net positive for the retail store. 
+Ironically, Electric Essentials, the second-best-selling category, didn’t experience significant spikes; it remained fairly consistent. 
+Beverages experienced the most recurring spikes, with sales reaching as high as $2316 and $1827, occurring all in one day in Q1 of 2023 and 2024. This likely occurs due to the high demand for fitness drinks that occurs around Q1 of the year. 
+Most Butcher and Furniture sales happen online; however, most beverage sales occur in person, suggesting a casual pickup-and-go transaction or a lack of online options.
 
 
 ## RECOMMENDATIONS.

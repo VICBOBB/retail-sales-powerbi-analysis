@@ -77,17 +77,20 @@ The database structure contains 5 major tables: the date dimension, customer dim
 
 ## PRODUCT PERFORMANCE
 <img width="1284" height="523" alt="Total Sales by Category" src="https://github.com/user-attachments/assets/6f5b1089-49c1-4215-b613-db0b67a7fd1e" />
-### Performance detail: 
+
+### Performance detail:
 -The 3 best-performing product categories were Butchers, Electric Household Essentials, and Beverages, with Milk products performing the least. 
 -The gap between products' performance is negligible, possibly due to their physical location, as demand for these products in this area is not that different.
 -Across the years, each product had relatively similar dips and spikes in revenue, with Furniture having the most contrast between them. These spikes contributed the most to Butchers and Beverages, leading in sales and helping furniture move up the performance ladder, even though most of its sales were relatively average.
 
 <img width="513" height="350" alt="Total Sales by Discount Applied" src="https://github.com/user-attachments/assets/19a66e14-99e2-43aa-9975-540c8ee7fb98" />
-### Discounts: 
+
+### Discounts:
 -Discounts did not greatly affect sales, as the discount sales percentage usually ranges around 0.34%. The Butchers category experienced the most discounts at 4.67%, while Milk Products had the least at 3.89%.
 
 <img width="1295" height="559" alt="Total Sales by Varying Categories" src="https://github.com/user-attachments/assets/51ff1478-d0dd-41dd-8def-33d35b400108" />
-### Revenue Spikes: 
+
+### Revenue Spikes:
 -A few categories, namely Butchers, Beverages, and Furniture, experienced the most spikes, greatly impacting their sales performance and being a net positive for the retail store. 
 -Ironically, Electric Essentials, the second-best-selling category, didn’t experience significant spikes; it remained fairly consistent. 
 -Beverages experienced the most recurring spikes, with sales reaching as high as $2316 and $1827, occurring all in one day in Q1 of 2023 and 2024. This likely occurs due to the high demand for fitness drinks that occurs around Q1 of the year. 

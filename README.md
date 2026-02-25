@@ -81,27 +81,29 @@ Built a 3-page interactive report:
 ---
 
 
-## Recommendations (Way Forward)
+## Recommendations.
 
-1. Prioritize the Butchers category for:
-   - Inventory availability  
-   - Supplier negotiation  
-   - Product variety expansion  
-
-2. Maintain current pricing strategy since:
-   - Discounts have minimal influence  
-   - Customers appear value-driven rather than promotion-driven  
-
-3. Focus on operational improvements:
-   - Study high-performing locations  
-   - Replicate layout and product mix  
-   - Introduce cross-selling with related categories  
-
-4. Next Analytics Steps:
-   - Add profit and margin data  
-   - Analyze repeat purchase behavior  
-   - Introduce forecasting for stock planning
-
+### General:
+-Do sanity checks on key dimensions to investigate if there's a clear driver. Investigate the drop in sales. Was it a seasonal issue, a marketing issue, or even a product quality issue?
+-Dedicate more resources to raising global sales and diversify locations from just a single store to multiple stores at different locations. This would improve in-store access for many customers and even ensure that online orders reach their intended destinations earlier.
+-Product variety expansion.
+### Prioritize the Butchers category for:
+-Inventory availability.  
+-Supplier negotiation. 
+-Product variety expansion. 
+-Push more resources towards the butcher section, electric household essentials, beverages, and furniture(because of the spike). These categories seem to be among the major drivers of all spikes in the total sales graph, compared to other categories.
+### Maintain current pricing strategy since:
+-Discounts have minimal influence  
+-Customers appear value-driven rather than promotion-driven 
+### Focus on operational improvements:
+-Study high-performing locations  
+-Replicate layout and product mix  
+-Introduce cross-selling with related categories  
+### Next Analytics Steps:
+-Add profit and margin data  
+-Analyze repeat purchase behavior  
+-Introduce forecasting for stock planning
+-Lastly, the store appears to be doing well with the data provided. More ads for general revenue growth and fulfillment of Northstar metrics are highly encouraged.
 
 ---
 
@@ -115,14 +117,10 @@ Built a 3-page interactive report:
 
 ---
 
-## Skills Demonstrated
+## CAVEATS AND ASSUMPTIONS:
+-Discounts need better recording. Some were missing in store records. Though the numbers were minimal and the impact negligible, it's still better to just have those completed. This is for the sales and finance team to take note of.
+-For future reference, please keep a detailed record of the products sold in each category. It would make it easier to pinpoint which product within a category caused the spike in revenue and sales.
 
-- Data Cleaning & Transformation  
-- Feature Engineering  
-- Star Schema Modeling  
-- KPI Development  
-- Dashboard Storytelling  
-- Business Analysis
 
 ---
 

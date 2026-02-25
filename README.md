@@ -1,5 +1,5 @@
 # <img width="1920" height="1080" alt="Regal Retail" src="https://github.com/user-attachments/assets/9c939bd3-bc33-42b6-ba21-fb5541637fd1" />
-REGAL RETAIL.
+# REGAL RETAIL.
 ## CLIENT BACKGROUND
 
 Regal Retail is a US-based general retail store founded in 2021. They specialize in selling a variety of products, including meats and beverages, furniture, and everyday essentials like food and milk products, etc. The store has experienced exponential growth and has been a net positive for the community. They have as many as 300 active customers annually and sales records close to 13,000, with total revenue exceeding $1.5M across 3 years and a single quarter. 

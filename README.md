@@ -34,6 +34,7 @@ Targeted SQL queries regarding various business questions can be found ![here]()
 -The Butchers and Beverages category saw the largest revenue spikes in Q3 of 2022 and Q1 of 2023, respectively.
 
 <img width="715" height="191" alt="Declining Sales" src="https://github.com/user-attachments/assets/a49e900f-349e-4854-bd1c-1ffb426e4a19" />
+
 ### Declining Trend in 2025:
 -January 2022 made the most sales with $53k, while Jan 2025 records the lowest with sales as low as $26k.
 -There are no main drivers of sales or dips in the graph, as most sales sit closely together in revenue earned. 

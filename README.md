@@ -28,7 +28,8 @@ Targeted SQL queries regarding various business questions can be found ![here]()
 <img width="1288" height="638" alt="Total Sales by Year" src="https://github.com/user-attachments/assets/8562a1c9-e511-4b48-9860-bc4817eb3776" />
 
 ### Revenue Growth and Retail Performance: 
--Total sales across 2022-2025 are $1.55M, ranging monthly from $37k to $49k. 
+-Total sales across 2022-2025 are $1.55M, ranging monthly from $37k to $49k.
+
 -January 2022 made the most sales with $53k, while January 2025 records the lowest with sales as low as $26k. 
 -More sales are made online than offline. The difference is minor, if not negligible, with online sales leading by only 2%. 
 -The Butchers and Beverages category saw the largest revenue spikes in Q3 of 2022 and Q1 of 2023, respectively.

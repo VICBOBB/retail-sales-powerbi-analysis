@@ -171,14 +171,14 @@ The database structure contains 5 major tables: the date dimension, customer dim
 
 
 ### Sales Analysis.
-![Analysis](<img width="1290" height="724" alt="PAGE 2- Sales Analysis" src="https://github.com/user-attachments/assets/925e7d3d-21e3-4454-8007-c9e8b6baafc1" />)
+![Analysis](https://github.com/VICBOBB/retail-sales-powerbi-analysis/blob/main/PAGE%202-%20Sales%20Analysis.png)
 
 
 ### Discount and Behaviour.
-![Discounts](<img width="1290" height="730" alt="PAGE 3-Discount and Behaviour" src="https://github.com/user-attachments/assets/b215dd96-de28-4be5-9d70-8e250f06e93a" />)
+![Discounts](https://github.com/VICBOBB/retail-sales-powerbi-analysis/blob/main/PAGE%203-Discount%20and%20Behaviour.png)
 
 ### Revenue Spikes.
-![Revenue](<img width="1290" height="725" alt="PAGE 4-Revenue Spikes" src="https://github.com/user-attachments/assets/50d24ae9-5d87-449c-92b7-359a56d19c26" />)
+![Revenue](https://github.com/VICBOBB/retail-sales-powerbi-analysis/blob/main/PAGE%204-Revenue%20Spikes.png)
 
 ---
 

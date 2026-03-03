@@ -142,15 +142,13 @@ The database structure contains 5 major tables: the date dimension, customer dim
 
 -Customers appear value-driven rather than promotion-driven. 
 ### Focus on operational improvements:
--Study high-performing locations.
+-Both online and offline locations seem to do relatively well. Invest equally in both with a little bit more effort in the online location as it is lagging behind slightly.
 
--Replicate layout and product mix.
+-Replicate layout and product mix when establishing new physical locations.
 
 -Introduce cross-selling with related categories.  
-### Next Analytics Steps:
+### For better data and Analytics recording:
 -Add profit and margin data.
-
--Analyze repeat purchase behavior.
 
 -Introduce forecasting for stock planning.
 

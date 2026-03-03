@@ -167,7 +167,7 @@ The database structure contains 5 major tables: the date dimension, customer dim
 ## Screenshots
 
 ### Retail Sales Performance.
-![Overview](<img width="1277" height="716" alt="PAGE 1-Retail Sales Peformance" src="https://github.com/user-attachments/assets/cd8e2dae-ff9f-45c0-aed0-665f91446a77" />)
+![Overview](https://github.com/VICBOBB/retail-sales-powerbi-analysis/blob/main/PAGE%201-Retail%20Sales%20Peformance.png)
 
 
 ### Sales Analysis.

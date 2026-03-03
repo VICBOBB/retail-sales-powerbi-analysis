@@ -138,16 +138,22 @@ The database structure contains 5 major tables: the date dimension, customer dim
 
 -Push more resources towards the butcher section, electric household essentials, beverages, and furniture(because of the spike). These categories seem to be among the major drivers of all spikes in the total sales graph, compared to other categories.
 ### Maintain current pricing strategy since:
--Discounts have minimal influence  
--Customers appear value-driven rather than promotion-driven 
+-Discounts have minimal influence.
+
+-Customers appear value-driven rather than promotion-driven. 
 ### Focus on operational improvements:
--Study high-performing locations  
--Replicate layout and product mix  
--Introduce cross-selling with related categories  
+-Study high-performing locations.
+
+-Replicate layout and product mix.
+
+-Introduce cross-selling with related categories.  
 ### Next Analytics Steps:
--Add profit and margin data  
--Analyze repeat purchase behavior  
--Introduce forecasting for stock planning
+-Add profit and margin data.
+
+-Analyze repeat purchase behavior.
+
+-Introduce forecasting for stock planning.
+
 -Lastly, the store appears to be doing well with the data provided. More ads for general revenue growth and fulfillment of Northstar metrics are highly encouraged.
 
 ## CAVEATS AND ASSUMPTIONS:

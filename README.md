@@ -14,11 +14,13 @@ The sales trend focuses on the number of sales, revenue retention, and Average O
 Product performance - Analyzing different product lines, discounts, and revenue spikes.
 Sales channels, discounts, and resource allocation for improved sales and customer satisfaction.
 
-An interactive PowerBI dashboard can be downloaded [here](https://github.com/VICBOBB/retail-sales-powerbi-analysis/blob/main/Retail%20sales.pbix)
+The interactive PowerBI dashboard can be downloaded [here](https://github.com/VICBOBB/retail-sales-powerbi-analysis/blob/main/Retail%20sales.pbix)
 
 The Python queries utilized to inspect and perform quality checks can be found [here](https://github.com/VICBOBB/retail-sales-powerbi-analysis/blob/main/01_raw_data_profiling.ipynb)
 
 The Data Cleaning techniques utilized to clean, organize, and prepare data for the dashboard can be found [here](https://github.com/VICBOBB/retail-sales-powerbi-analysis/blob/main/01_raw_data_profiling.ipynb)
+
+The cleaned and processed Excel sheets can be found here [here](https://github.com/VICBOBB/retail-sales-powerbi-analysis/blob/main/dim_customer.csv)
 
 # Retail Sales Analytics – Power BI Project
 

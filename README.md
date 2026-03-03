@@ -16,11 +16,9 @@ Sales channels, discounts, and resource allocation for improved sales and custom
 
 An interactive PowerBI dashboard can be downloaded [here](https://github.com/VICBOBB/retail-sales-powerbi-analysis/blob/main/Retail%20sales.pbix)
 
-The SQL queries utilized to inspect and perform quality checks can be found [here]()
+The Python queries utilized to inspect and perform quality checks can be found [here](https://github.com/VICBOBB/retail-sales-powerbi-analysis/blob/main/01_raw_data_profiling.ipynb)
 
-The SQL queries utilized to clean, organize, and prepare data for the dashboard can be found [here]()
-
-Targeted SQL queries regarding various business questions can be found [here]()
+The Data Cleaning techniques utilized to clean, organize, and prepare data for the dashboard can be found [here](https://github.com/VICBOBB/retail-sales-powerbi-analysis/blob/main/01_raw_data_profiling.ipynb)
 
 # Retail Sales Analytics – Power BI Project
 
